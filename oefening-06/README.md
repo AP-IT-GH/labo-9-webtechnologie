@@ -1,6 +1,6 @@
 ## Oefening 6
 
-Voeg het formulier van op de screenshot toe aan onze eerdere versie van de site van AP. Start hiervoor van het bestaande ontwerp uit het vorige labo.
+Voeg het formulier van op de screenshot toe aan onze eerdere versie van de site van AP (Labo 8 - Oefening 3). Start hiervoor van het bestaande ontwerp uit het vorige labo.
 
 - Pas het menu in de `index.html` aan en link naar de nieuwe pagina.
 - Voeg een zoekfunctie toe in het menu met een zoekformulier.
