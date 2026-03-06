@@ -27,9 +27,9 @@ webtechnologie/
 
 ## Oefeningen
 
-1. [Oefening 1: Username & Password](./username-password/README.md)
-2. [Oefening 2: Radiobuttons](./radiobuttons/README.md)
-3. [Oefening 3: Upload](./upload/README.md)
-4. [Oefening 4: Checkboxes](./checkboxes/README.md)
-5. [Oefening 5: Select](./select/README.md)
-6. [Oefening 6: Conferentie Registratie](./event-registration/README.md)
+1. [username-password](./username-password/README.md)
+2. [radiobuttons](./radiobuttons/README.md)
+3. [upload](./upload/README.md)
+4. [checkboxes](./checkboxes/README.md)
+5. [select](./select/README.md)
+6. [event-registration](./event-registration/README.md)
