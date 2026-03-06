@@ -1,6 +1,6 @@
-## Oefening 2
+## Radiobuttons
 
-Kopieer je oplossing van oefening 1 en pas het formulier vervolgens aan.
+Kopieer je oplossing van **Username & Password** en pas het formulier vervolgens aan.
 - Zorg ervoor dat de labels en inputs terug inline-elementen worden.
 - Zorg ervoor dat de gebruiker uit een lijst met keuzerondjes (_radiobuttons_) zijn favoriete programmeertaal en IDE kan aanduiden.
 - Zorg voor één `fieldset` en `legend` per vraag.

@@ -1,29 +1,34 @@
-# Oefeningen labo 9
+# Labo 9 
 
-Zorg dat je de volgende folder structuur volgt:
+- Zorg dat Codium en alle nodige extensies zijn geïnstalleerd.
+- Volg de gegeven bestandenstructuur.
+- Controleer het resultaat van je oefening met de Live server extensie.
+- Werk de onderstaande oefeningen van boven naar beneden af.
+- Gebruik telkens [The New CSS Reset](https://elad2412.github.io/the-new-css-reset/) of het meegeleverde `reset.css`.
+
+- Zorg ervoor dat de body children zowel verticaal als horizontaal in het midden van de webpagina gecentreerd staan. Gebruik hiervoor CSS Grid.
+- Voorzie de achtergrond van de body van een leuke gradient (bijv. via [cssgradient.io](https://cssgradient.io/)).
+
+## Bestandenstructuur
 
 ```
 webtechnologie/
-├─ labo-01/
-│  ├─ oefening-01/
+├─ labo-09/
+│  ├─ username-password/
 │  │  ├─ index.html
-│  │  ├─ images/
-│  │  │  ├─ image-1.jpg
-│  │  │  └─ image-n.jpg
-│  │  ├─ css/
-│  │  │   ├─ reset.css
-│  │  │   └─ style.css
-│  │  └─ js/
-│  │     └─ script.js
-│  ├─ oefening-02/
-│  └─ oefening-n/
-├─ labo-02/
-└─ labo-n/
+│  │  └─ css/
+│  │     ├─ reset.css
+│  │     └─ style.css
+│  ├─ radiobuttons/
+│  ├─ upload/
+│  ├─ checkboxes/
+│  └─ select/
 ```
 
-## Algemene opzet
+## Oefeningen
 
-- Gebruik opnieuw overal reset.css.
-- Oefeningen 1 tot en met 5 zijn allemaal gebaseerd op hetzelfde ![algemene ontwerp](./algemene-layout.webp)
-- Voorzie de achtergrond van de body van een leuke gradient. Gebruik hiervoor een CSS gradient generator tool zoals [cssgradient.io](https://cssgradient.io/).
-- Zorg ervoor dat de body children zowel verticaal als horizontaal in het midden van de webpagina gecentreerd staan. Gebruik hiervoor CSS Grid.
+1. [username-password](./username-password/README.md)
+2. [radiobuttons](./radiobuttons/README.md)
+3. [upload](./upload/README.md)
+4. [checkboxes](./checkboxes/README.md)
+5. [select](./select/README.md)
